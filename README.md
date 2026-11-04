@@ -1,7 +1,7 @@
-# Excel Sales Performance Dashboard
+# Excel Employee Data Cleaning and Analysis
 
 ## Project Overview
-This project involves analyzing sales data and developing an interactive dashboard using Microsoft Excel to monitor business performance and support data-driven decision-making.
+This project demonstrates employee data cleaning, transformation and analysis using Microsoft Excel, including formulas, data organization and summary calculations.
 
 ## Objectives
 - Analyze overall sales performance.
